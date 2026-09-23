@@ -15,7 +15,7 @@
                     <span>📱 +62 812-8266-7894</span>
                 </div>
                 <div class="contact-item">
-                    <span>✉️ <a href="mailto:dindaagensyafrudin@gmail.com">dindaagensyafrudin@gmail.com</a></span>
+                    <span>✉️ <a href="mailto:dindasyafrudin@gmail.com">dindasyafrudin@gmail.com</a></span>
                 </div>
                 <div class="contact-item">
                     <span>📍 Jakarta, Indonesia</span>
