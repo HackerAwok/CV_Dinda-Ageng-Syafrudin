@@ -1,5 +1,5 @@
 <html lang="id">
-    <img src="IMG-20251013-WA0051.jpg.jpeg" alt="Foto Dinda Ageng Syafrudin" class="profile-img">
+    <img src="IMG-20251013-WA0051.jpg.jpeg" alt="Foto Dinda Ageng Syafrudin" class="profile-img" width="180">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
